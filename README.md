@@ -1,2 +1,2 @@
 # Simon-Game
-A Simon gamer
+Play the live version of Simon game here - https://ujjwaluzu.github.io/Simon-Game/
